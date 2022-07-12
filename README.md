@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iKeyzera?tab=repositories](https://github.com/iKeyzera?tab=repositories)
+- 👨‍💻 All of my projects are available at [Available soon](Available soon)
 
 - 📫 How to reach me **Available soon**
 
